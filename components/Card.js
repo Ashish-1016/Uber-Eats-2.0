@@ -48,7 +48,7 @@ class Card extends React.Component {
                 </Animated.View>
               </TouchableOpacity>
             </View>
-            <Text style={styles.title}>Alma Verde (Hipódromo)</Text>
+            <Text style={styles.title}>Hello World/Text>
             <Text style={styles.description}>$$ . Saludable</Text>
             <View style={styles.tagContainer}>
               <Tag>25-35 min</Tag>
